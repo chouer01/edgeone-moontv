@@ -82,6 +82,38 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+      "feisuzy": {
+    "api": "http://feisuzy.com/api.php/provide/vod",
+    "name": "飞速资源"
+  },
+  "tiankongzy": {
+    "api": "http://www.tiankongzy.com/api.php/provide/vod",
+    "name": "天空资源"
+  },
+  "fqzy": {
+    "api": "http://api.fqzy.cc/api.php/provide/vod",
+    "name": "番茄资源"
+  },
+  "apibdzy": {
+    "api": "https://api.apibdzy.com/api.php/provide/vod",
+    "name": "百度云资源"
+  },
+  "f88zyw": {
+    "api": "http://www.88zyw.net/api.php/provide/vod",
+    "name": "88资源网"
+  },
+  "nullbr": {
+    "api": "https://nullbr.online/api",
+    "name": "Nullbr资源"
+  },
+  "hytys": {
+    "api": "https://api.hytys.cn/api.php/provide/vod",
+    "name": "短剧资源"
+  },
+  "jsonporn": {
+    "api": "https://jsonpornapi.com/api",
+    "name": "JSON Porn API"
+  }
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
